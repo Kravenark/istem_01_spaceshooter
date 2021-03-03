@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAADMDAAAAAAAzAAMAAAAAMwAAAwAAADAAAAADAAAwAwAAAAMAMAMAAAAAAwAAMwAAAAADAAAAMwAAAAMAAAAAMwMAAwAAAAAAMAMDAAAAAAAAMAMAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Sprite_SpaceShip"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIgAAAAAAIAIgIgAAAAACAAAgAgAAICIgAAACAAAgIAIAACAAACAgAgAiIAAAIiAAIAIgAAAiAAAgACAAACAgICACIAAAICICACIgAAAAAiIAICIAAAAiIAAAAgAAACACACACAAAAACAiAgAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Sprite_Alien"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAQAAAAAAAAABAAAAAAAAAAAQAAAAAAABAREREBAAAAAAEAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "BulletSprite"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
